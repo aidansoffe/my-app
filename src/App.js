@@ -13,7 +13,7 @@ class App extends Component {
         <p className="App-intro">
           Hello!!!!!
         </p>
-        <p>this is gotta create a conflict....</p>
+        <p>this  is from secondary branch</p>
       </div>
     );
   }
